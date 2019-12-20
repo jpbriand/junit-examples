@@ -1,4 +1,4 @@
-#JUnit 5 Example
+# JUnit 5 Example
 
 
 ## 1. Import source code into Intellij
@@ -8,7 +8,7 @@ Menu **File –> New –> Module from existing sources –> junit5-examples –>
 
 ## 3. Run the example
 
-Open your file favorite test file. Eg **ApplicationTests.java** 
+Open a test file. Eg **ApplicationTests.java** 
 
 **Right click -> Run As -> JUnit Test** or use the shortcut: **Alt+Shift+x, T** to start the main method
 
