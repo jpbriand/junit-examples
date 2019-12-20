@@ -1,0 +1,16 @@
+plugins {
+	id 'java'
+	id 'idea'
+}
+
+repositories {
+	mavenCentral()
+}
+
+dependencies {
+	testImplementation('org.junit.jupiter:junit-jupiter:5.5.2')
+}
+
+test {
+	useJUnitPlatform()
+}

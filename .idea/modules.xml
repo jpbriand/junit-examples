@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/junit5-assertions-examples.iml" filepath="$PROJECT_DIR$/.idea/modules/junit5-assertions-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/junit5-assertions-examples.main.iml" filepath="$PROJECT_DIR$/.idea/modules/junit5-assertions-examples.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/junit5-assertions-examples.test.iml" filepath="$PROJECT_DIR$/.idea/modules/junit5-assertions-examples.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/junit5-disable-test-example.iml" filepath="$PROJECT_DIR$/.idea/modules/junit5-disable-test-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/junit5-disable-test-example.main.iml" filepath="$PROJECT_DIR$/.idea/modules/junit5-disable-test-example.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/junit5-disable-test-example.test.iml" filepath="$PROJECT_DIR$/.idea/modules/junit5-disable-test-example.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/junit5-dynamic-test-example.iml" filepath="$PROJECT_DIR$/.idea/modules/junit5-dynamic-test-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/junit5-dynamic-test-example.main.iml" filepath="$PROJECT_DIR$/.idea/modules/junit5-dynamic-test-example.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/junit5-dynamic-test-example.test.iml" filepath="$PROJECT_DIR$/.idea/modules/junit5-dynamic-test-example.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/junit5-examples.iml" filepath="$PROJECT_DIR$/.idea/modules/junit5-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/junit5-exception-testing-example.iml" filepath="$PROJECT_DIR$/.idea/modules/junit5-exception-testing-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/junit5-exception-testing-example.main.iml" filepath="$PROJECT_DIR$/.idea/modules/junit5-exception-testing-example.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/junit5-exception-testing-example.test.iml" filepath="$PROJECT_DIR$/.idea/modules/junit5-exception-testing-example.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/junit5-mockito-example.iml" filepath="$PROJECT_DIR$/.idea/modules/junit5-mockito-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/junit5-mockito-example.main.iml" filepath="$PROJECT_DIR$/.idea/modules/junit5-mockito-example.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/junit5-mockito-example.test.iml" filepath="$PROJECT_DIR$/.idea/modules/junit5-mockito-example.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/junit5-nested-test-example.iml" filepath="$PROJECT_DIR$/.idea/modules/junit5-nested-test-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/junit5-nested-test-example.main.iml" filepath="$PROJECT_DIR$/.idea/modules/junit5-nested-test-example.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/junit5-nested-test-example.test.iml" filepath="$PROJECT_DIR$/.idea/modules/junit5-nested-test-example.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/junit5-spring-boot-example.iml" filepath="$PROJECT_DIR$/.idea/modules/junit5-spring-boot-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/junit5-spring-boot-example.main.iml" filepath="$PROJECT_DIR$/.idea/modules/junit5-spring-boot-example.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/junit5-spring-boot-example.test.iml" filepath="$PROJECT_DIR$/.idea/modules/junit5-spring-boot-example.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/junit5-tag-filter-example.iml" filepath="$PROJECT_DIR$/.idea/modules/junit5-tag-filter-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/junit5-tag-filter-example.main.iml" filepath="$PROJECT_DIR$/.idea/modules/junit5-tag-filter-example.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/junit5-tag-filter-example.test.iml" filepath="$PROJECT_DIR$/.idea/modules/junit5-tag-filter-example.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/junit5-timeout-example.iml" filepath="$PROJECT_DIR$/.idea/modules/junit5-timeout-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/junit5-timeout-example.main.iml" filepath="$PROJECT_DIR$/.idea/modules/junit5-timeout-example.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/junit5-timeout-example.test.iml" filepath="$PROJECT_DIR$/.idea/modules/junit5-timeout-example.test.iml" />
+    </modules>
+  </component>
+</project>

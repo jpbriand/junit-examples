@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="junit5-assertions-examples.main" target="11" />
+      <module name="junit5-assertions-examples.test" target="11" />
+      <module name="junit5-disable-test-example.main" target="11" />
+      <module name="junit5-disable-test-example.test" target="11" />
+      <module name="junit5-dynamic-test-example.main" target="11" />
+      <module name="junit5-dynamic-test-example.test" target="11" />
+      <module name="junit5-exception-testing-example.main" target="11" />
+      <module name="junit5-exception-testing-example.test" target="11" />
+      <module name="junit5-mockito-example.main" target="11" />
+      <module name="junit5-mockito-example.test" target="11" />
+      <module name="junit5-nested-test-example.main" target="11" />
+      <module name="junit5-nested-test-example.test" target="11" />
+      <module name="junit5-spring-boot-example.main" target="11" />
+      <module name="junit5-spring-boot-example.test" target="11" />
+      <module name="junit5-tag-filter-example.main" target="11" />
+      <module name="junit5-tag-filter-example.test" target="11" />
+      <module name="junit5-test-suite-example.main" target="11" />
+      <module name="junit5-test-suite-example.test" target="11" />
+      <module name="junit5-timeout-example.main" target="11" />
+      <module name="junit5-timeout-example.test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

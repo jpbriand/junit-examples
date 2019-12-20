@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="junit5-exception-testing-example:main" external.linked.project.path="$MODULE_DIR$/../../junit5-exception-testing-example" external.root.project.path="$MODULE_DIR$/../../junit5-exception-testing-example" external.system.id="GRADLE" external.system.module.group="" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_11">
+    <output url="file://$MODULE_DIR$/../../junit5-exception-testing-example/build/classes/java/main" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../junit5-exception-testing-example/src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../junit5-exception-testing-example/src/main/java" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
