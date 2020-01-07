@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module external.linked.project.id="junit5-timeout-example" external.linked.project.path="$MODULE_DIR$/../../junit5-timeout-example" external.root.project.path="$MODULE_DIR$/../../junit5-timeout-example" external.system.id="GRADLE" external.system.module.group="" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="ExternalSystem" externalSystem="GRADLE" externalSystemModuleGroup="" externalSystemModuleVersion="unspecified" linkedProjectId="junit5-timeout-example" linkedProjectPath="$MODULE_DIR$/../../junit5-timeout-example" rootProjectPath="$MODULE_DIR$/../../junit5-timeout-example" />
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../junit5-timeout-example">

@@ -1,0 +1,32 @@
+buildscript {
+    repositories { mavenCentral() }
+}
+
+plugins {
+    id 'java'
+    id 'org.springframework.boot' version '2.0.5.RELEASE'
+    id 'io.spring.dependency-management' version '1.0.7.RELEASE'
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+
+    implementation 'org.springframework.boot:spring-boot-starter-web'
+    implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
+    implementation 'com.h2database:h2'
+
+    runtimeOnly 'mysql:mysql-connector-java'
+
+    compile 'javax.xml.bind:jaxb-api:2.2.11'
+
+    testCompile 'org.springframework.boot:spring-boot-starter-test'
+    testCompile 'org.mockito:mockito-junit-jupiter:2.18.3'
+    testCompile "org.mockito:mockito-core:2.+"
+}
+
+test {
+    useJUnitPlatform()
+}

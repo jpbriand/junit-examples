@@ -8,6 +8,28 @@
       <module name="junit5-disable-test-example.test" target="11" />
       <module name="junit5-dynamic-test-example.main" target="11" />
       <module name="junit5-dynamic-test-example.test" target="11" />
+      <module name="junit5-examples-junit5-spring-boot-jpa-h2-example.main" target="11" />
+      <module name="junit5-examples-junit5-spring-boot-jpa-h2-example.test" target="11" />
+      <module name="junit5-examples.junit5-assertions-examples.main" target="1.8" />
+      <module name="junit5-examples.junit5-assertions-examples.test" target="1.8" />
+      <module name="junit5-examples.junit5-disable-test-example.main" target="11" />
+      <module name="junit5-examples.junit5-disable-test-example.test" target="11" />
+      <module name="junit5-examples.junit5-dynamic-test-example.main" target="11" />
+      <module name="junit5-examples.junit5-dynamic-test-example.test" target="11" />
+      <module name="junit5-examples.junit5-exception-testing-example.main" target="11" />
+      <module name="junit5-examples.junit5-exception-testing-example.test" target="11" />
+      <module name="junit5-examples.junit5-mockito-example.main" target="11" />
+      <module name="junit5-examples.junit5-mockito-example.test" target="11" />
+      <module name="junit5-examples.junit5-nested-test-example.main" target="11" />
+      <module name="junit5-examples.junit5-nested-test-example.test" target="11" />
+      <module name="junit5-examples.junit5-spring-boot-example.main" target="11" />
+      <module name="junit5-examples.junit5-spring-boot-example.test" target="11" />
+      <module name="junit5-examples.junit5-spring-boot-jpa-h2-example.main" target="11" />
+      <module name="junit5-examples.junit5-spring-boot-jpa-h2-example.test" target="11" />
+      <module name="junit5-examples.junit5-tag-filter-example.main" target="11" />
+      <module name="junit5-examples.junit5-tag-filter-example.test" target="11" />
+      <module name="junit5-examples.junit5-timeout-example.main" target="11" />
+      <module name="junit5-examples.junit5-timeout-example.test" target="11" />
       <module name="junit5-exception-testing-example.main" target="11" />
       <module name="junit5-exception-testing-example.test" target="11" />
       <module name="junit5-mockito-example.main" target="11" />
@@ -16,6 +38,8 @@
       <module name="junit5-nested-test-example.test" target="11" />
       <module name="junit5-spring-boot-example.main" target="11" />
       <module name="junit5-spring-boot-example.test" target="11" />
+      <module name="junit5-spring-boot-jpa-h2-example.main" target="11" />
+      <module name="junit5-spring-boot-jpa-h2-example.test" target="11" />
       <module name="junit5-tag-filter-example.main" target="11" />
       <module name="junit5-tag-filter-example.test" target="11" />
       <module name="junit5-test-suite-example.main" target="11" />
