@@ -24,8 +24,8 @@
       <module name="junit5-examples.junit5-nested-test-example.test" target="11" />
       <module name="junit5-examples.junit5-spring-boot-example.main" target="11" />
       <module name="junit5-examples.junit5-spring-boot-example.test" target="11" />
-      <module name="junit5-examples.junit5-spring-boot-jpa-h2-example.main" target="11" />
-      <module name="junit5-examples.junit5-spring-boot-jpa-h2-example.test" target="11" />
+      <module name="junit5-examples.junit5-spring-boot-jpa-h2-example.main" target="1.8" />
+      <module name="junit5-examples.junit5-spring-boot-jpa-h2-example.test" target="1.8" />
       <module name="junit5-examples.junit5-tag-filter-example.main" target="11" />
       <module name="junit5-examples.junit5-tag-filter-example.test" target="11" />
       <module name="junit5-examples.junit5-timeout-example.main" target="11" />
