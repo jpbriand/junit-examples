@@ -28,6 +28,8 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/junit5-examples.junit5-spring-boot-example.test.iml" filepath="$PROJECT_DIR$/.idea/modules/junit5-examples.junit5-spring-boot-example.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/junit5-examples.junit5-spring-boot-jpa-h2-example.main.iml" filepath="$PROJECT_DIR$/.idea/modules/junit5-examples.junit5-spring-boot-jpa-h2-example.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/junit5-examples.junit5-spring-boot-jpa-h2-example.test.iml" filepath="$PROJECT_DIR$/.idea/modules/junit5-examples.junit5-spring-boot-jpa-h2-example.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/junit5-examples.junit5-tag-filter-example.main.iml" filepath="$PROJECT_DIR$/.idea/modules/junit5-examples.junit5-tag-filter-example.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/junit5-examples.junit5-tag-filter-example.test.iml" filepath="$PROJECT_DIR$/.idea/modules/junit5-examples.junit5-tag-filter-example.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/junit5-examples.junit5-timeout-example.main.iml" filepath="$PROJECT_DIR$/.idea/modules/junit5-examples.junit5-timeout-example.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/junit5-examples.junit5-timeout-example.test.iml" filepath="$PROJECT_DIR$/.idea/modules/junit5-examples.junit5-timeout-example.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/junit5-exception-testing-example.iml" filepath="$PROJECT_DIR$/.idea/modules/junit5-exception-testing-example.iml" />

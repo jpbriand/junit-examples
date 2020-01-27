@@ -43,7 +43,7 @@ public class TestUserService {
 
     @Test
     void loginUsernamePasswordAreCorrect() {
-      boolean actual = userService.login("admin", "password123");
+      boolean actual = userService.login(null, "password123");
       assertTrue(actual);
     }
 
